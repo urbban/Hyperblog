@@ -5,3 +5,5 @@ urban tiene 23 años nacido en mexico
 Esta es su historia
 
 Esta aprendiendo git en platzi.
+
+Hoy planea aprender mas anter de regresar a clases 
